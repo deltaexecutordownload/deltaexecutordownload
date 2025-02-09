@@ -2,7 +2,7 @@
 
 Welcome to the official download page for **Delta Executor**!
 
-## Latest Version: Delta9.apk
+## Latest Version: Delta.apk
 
 Please download the latest version of **Delta Executor** from the link below:
 

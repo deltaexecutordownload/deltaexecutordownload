@@ -1,6 +1,4 @@
 
----
-
 # Delta Executor Download Page
 
 Welcome to the official **Delta Executor** download page!
@@ -63,11 +61,3 @@ Please download the latest version of **Delta Executor** from the link below:
 - **Backup Your Data:** Back up your game data before using **Delta Executor** to prevent data loss.
 
 - **Stay Informed:** Follow official announcements from the **Delta Executor** team to ensure optimal use.
-
----
-
-If you encounter any issues with **Delta Executor** installation or usage, please contact our customer support team for assistance.
-
-*Note: The use of exploit tools may violate the terms of service of certain games. Always use responsibly and at your own risk.*
-
----
